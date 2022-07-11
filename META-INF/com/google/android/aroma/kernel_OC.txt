@@ -1,6 +1,6 @@
 <@center><b><#selectbg_g>ENGLISH</#></b>
 
-<@center><b><#selectbg_g>SkyWalker Kernel</#></b>
+<@center><b><#selectbg_g>Kernel GeForce-RTX™</#></b>
 
 <b><#selectbg_g>About Overclocked Kernel :</#></b></@>
 
